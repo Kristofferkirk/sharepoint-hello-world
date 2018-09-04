@@ -2,6 +2,11 @@
 
 This is where you include your WebPart documentation.
 
+Playground with basic setup of a shharepoint webpart.
+
+Following the guide listed here:
+https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part
+
 ### Building the code
 
 ```bash
